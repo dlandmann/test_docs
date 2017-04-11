@@ -1,0 +1,6 @@
+site_name: test_docs
+theme: readthedocs
+site_description: test_docs - documentation with Markdown.
+site_author: DL!
+
+repo_url: https://github.com/dierklandmann/test_docs
