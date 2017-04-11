@@ -75,7 +75,7 @@ Anpassung Crontab -e
 * * * * * /bin/bash pfad/scheduler_cron.sh --mode default --includeGroups googlemerchant
 # alle Jobs ausführen, welche nicht den Gruppen sind
 * * * * * /bin/bash pfad/scheduler_cron.sh --mode default --excludeGroups followupemails,amazonshopping,googlemerchant
-
+```
 ! Bei excludeGroups und includeGroups dürfen KEINE Leerzeichen nach dem Komma folgen. 
 
 
