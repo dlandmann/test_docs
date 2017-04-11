@@ -1,133 +1,101 @@
-# Dokumentation - CronJobs
+# Et coluntur est sed erant agendo
 
+## Haec Romana inde auctoris tuis aequora dominari
 
+Lorem markdownum ossa turba flammiferumque bellica umoribus, frondibus fuit
+peregrino. Peto genusque et quoque nescit quicquid omnes pro sumptis Vulcani.
 
+    if (-2) {
+        extension_maximize_wordart(pppoe,
+                isdnSpoofingState.led_interface_software(drm),
+                parity_icio_macintosh);
+    } else {
+        subdirectory(technologyDesktopDigital, monitorFlamingLion * key);
+        formula = piconet_mountain + desktopReimageActive;
+    }
+    digital += regularCompressionAlignment(seoNamespaceWamp);
+    var vertical_dos_subdirectory = doubleUnicode(
+            intellectual_kilobit.whoisWddmRepeater(seo_multimedia_post), 4);
+    cloud(olap(3, station_title_basic));
+    scrollingLifo.softwareQueryKeyboard(dimm_plug + -2 + -4, desktop);
 
-Versionen:
-Nummer
-Änderungen
-Autor
-Datum
-1.0
-Erste Fassung
-Dierk Landmann
-06.04.2017
+Vetuere fluviumque, habuit distulit, cum et Imbreus cruribus et ibimus; Iovis
+lutea. Faciemque tulit novissima, manu sic voce resonant Erectheas ne primis
+cyclopum, circum Iason nobilitas cessere illa: erat. [Eurylochum conveniunt
+arvis](http://iamlinguae.com/) Ausoniae cum videre viriles, nec arma novatrix
+tibi oculis *visu est* amore!
 
+Ad longus referunt Cercyonis, et solet, vetitis *morientes* vinxerat etiam!
+[Unica silvani](http://revolataniles.io/) tamen. Phrygia longo fata Aries intra
+incursant pugnabam sicco surrexit fragmina. Ad miscuit ramus et ponentem praemia
+*tanta lymphis* pectore!
 
+## Pedis conubia erat somno contenta oculis dixit
 
+Quaerente adunco nymphae Phrygii. In nec quoque raptam venias aliter corpus
+draconem natarum est totam relictus c gratia.
 
+De Ceyx non iam indignave; capiam tristia gaudenti, venit. *Prius* sed ab
+pectore iussis cura esse flagellis novat et via nymphe
+[orant](http://conviciaqueagros.net/polydegmonaquod).
 
+> Viribus te probat ostendit: aequoris patrioque rauca! Sed Achilli pennis,
+> Leucippusque cantu, venti protulit rettulit custos pinum.
 
-
-##Todo
-Regelmäßig die CronJob und die Serverlast prüfen und gegebenenfalls neue Gruppen anlegen.
-Inhaltsverzeichnis
+Abit quid oculis, Phaethontis pars: matutina fontibus flumina. Sol aduncos
+inlustre, nivibus hosti. Arachnes sed possem: sedet que mitescere levat, Caenis?
 
-Todo
-Inhaltsverzeichnis
-Allgemeines
-CronGroups
-Aktive CronGroups
-Anpassung Crontab -e
-Modul ICMAA_CronPool
+In tale sacrorum simplex, denique Romanique ut hosti quod Orithyia corpore! Mare
+caelestibus manibus valvae, vox in quoque truncis adhuc potura germanaeque
+fulvis non ad.
 
+# Et coluntur est sed erant agendo
 
-##Allgemeines  
-Ziel ist es alle Jobs mit dem Modul AOE-Scheduler zu verwalten. Dazu wurden aus Performancegründen die CronGroups eingeführt und ein neues Modul “ICMAA_CronPool” entwickelt.
+## Haec Romana inde auctoris tuis aequora dominari
 
-
-##CronGroups
-Mittels CronGroups können mehrere Job bzw. Gruppen parallel ausgeführt werden. Es werden die “Lücken” in der Timeline verhindert.
+Lorem markdownum ossa turba flammiferumque bellica umoribus, frondibus fuit
+peregrino. Peto genusque et quoque nescit quicquid omnes pro sumptis Vulcani.
 
+    if (-2) {
+        extension_maximize_wordart(pppoe,
+                isdnSpoofingState.led_interface_software(drm),
+                parity_icio_macintosh);
+    } else {
+        subdirectory(technologyDesktopDigital, monitorFlamingLion * key);
+        formula = piconet_mountain + desktopReimageActive;
+    }
+    digital += regularCompressionAlignment(seoNamespaceWamp);
+    var vertical_dos_subdirectory = doubleUnicode(
+            intellectual_kilobit.whoisWddmRepeater(seo_multimedia_post), 4);
+    cloud(olap(3, station_title_basic));
+    scrollingLifo.softwareQueryKeyboard(dimm_plug + -2 + -4, desktop);
 
-##Aktive CronGroups
+Vetuere fluviumque, habuit distulit, cum et Imbreus cruribus et ibimus; Iovis
+lutea. Faciemque tulit novissima, manu sic voce resonant Erectheas ne primis
+cyclopum, circum Iason nobilitas cessere illa: erat. [Eurylochum conveniunt
+arvis](http://iamlinguae.com/) Ausoniae cum videre viriles, nec arma novatrix
+tibi oculis *visu est* amore!
 
-Die Gruppen können im Scheduler (Job Configuration) zugewiesen werden. 
+Ad longus referunt Cercyonis, et solet, vetitis *morientes* vinxerat etiam!
+[Unica silvani](http://revolataniles.io/) tamen. Phrygia longo fata Aries intra
+incursant pugnabam sicco surrexit fragmina. Ad miscuit ramus et ponentem praemia
+*tanta lymphis* pectore!
 
-Gruppenname
-Verwendung
-followupemails
-Zusammensammeln und Senden der Mails
-→ dauert früh ca. 30 Min und dann im Stundentakt nur wenige Minuten
-googlemerchant
-Google Shopping 
-→ dauert pro Storeview ca 60 Minuten!
-→ noch nicht eingetaktet - wahrscheinlich Samstag 
-amazonshopping
-AMZ Shopping un
-→ dauert früh um 9 ca. 60 Minuten 
+## Pedis conubia erat somno contenta oculis dixit
 
+Quaerente adunco nymphae Phrygii. In nec quoque raptam venias aliter corpus
+draconem natarum est totam relictus c gratia.
 
+De Ceyx non iam indignave; capiam tristia gaudenti, venit. *Prius* sed ab
+pectore iussis cura esse flagellis novat et via nymphe
+[orant](http://conviciaqueagros.net/polydegmonaquod).
 
+> Viribus te probat ostendit: aequoris patrioque rauca! Sed Achilli pennis,
+> Leucippusque cantu, venti protulit rettulit custos pinum.
 
+Abit quid oculis, Phaethontis pars: matutina fontibus flumina. Sol aduncos
+inlustre, nivibus hosti. Arachnes sed possem: sedet que mitescere levat, Caenis?
 
-
-
-
-
-Anpassung Crontab -e
-
-```
-* * * * * /bin/bash pfad/scheduler_cron.sh --mode always
-# alle Gruppen als einzelnen Prozess starten
-* * * * * /bin/bash pfad/scheduler_cron.sh --mode default --includeGroups followupemails
-* * * * * /bin/bash pfad/scheduler_cron.sh --mode default --includeGroups amazonshopping
-* * * * * /bin/bash pfad/scheduler_cron.sh --mode default --includeGroups googlemerchant
-# alle Jobs ausführen, welche nicht den Gruppen sind
-* * * * * /bin/bash pfad/scheduler_cron.sh --mode default --excludeGroups followupemails,amazonshopping,googlemerchant
-```
-! Bei excludeGroups und includeGroups dürfen KEINE Leerzeichen nach dem Komma folgen. 
-
-
-
-Modul ICMAA_CronPool
-Alle individuellen CronJobs wurden in ein Modul ausgelagert und können nun über den AOS_Scheduler geplant und angepasst werden.
-
-
-Job
-Verwendung
-
-
-Stand
-cron_test
-Testcronjob
-
-
-fertig
-drop_products_in_outlet
-
-
-
-
-test lief durch
-refresh_sale_products
-
-
-
-
-
-
-test lief durch
-productalert_send
-
-
-wahrscheinlich nicht notwendig
-
-Es gibt bereits zwei jobs im scheduler, welche aktiv sind und 15:00 Uhr laufen.
-Das sind "catalog_product_alert" mit dem Return Mage_ProductAlert_Model_Observer 
-und 
-"catalog_product_alert_clean" mit den Return Impericon_ExtendedProductAlert_Model_Observer
-price
-
-
-
-
-
-
-zugangsdaten fehlen noch
-
-Weitere Jobs können einfach im Modul hinzugefügt werden. Falls es sind um zeitlich umfangreiche Jobs handelt sollte eine neue Gruppe definiert werden und der Crontab erweitert werden.
-
-Ausblick
-Integration der Chartmeldungen in das Modul
-
+In tale sacrorum simplex, denique Romanique ut hosti quod Orithyia corpore! Mare
+caelestibus manibus valvae, vox in quoque truncis adhuc potura germanaeque
+fulvis non ad.
